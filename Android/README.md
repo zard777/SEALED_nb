@@ -1,4 +1,4 @@
-# Input 
+# Android key-streak  
 + **``` *#*#4636#*#* ```** – About phone.
 + **``` *#*#7780#*#* ```** – Restore Factory settings. 
 + **``` *2767*3855# ```** – Reinstalls Phones Firmware
