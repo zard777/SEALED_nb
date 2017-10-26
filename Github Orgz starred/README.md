@@ -19,3 +19,5 @@
 + [Synack](https://github.com/synack)
 > Update Oct-18
 + [OpenObservatory](https://github.com/OpenObservatory)
+> Update Oct-26
++ [DataDog](https://github.com/DataDog)
