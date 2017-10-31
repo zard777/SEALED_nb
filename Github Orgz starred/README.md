@@ -17,7 +17,8 @@
 + [MWR Labs](https://github.com/mwrlabs)
 + [Gotham Digital Sec](https://github.com/GDSSecurity)
 + [Synack](https://github.com/synack)
-> Update Oct-18
+> 2017_Oct
 + [OpenObservatory](https://github.com/OpenObservatory)
-> Update Oct-26
 + [DataDog](https://github.com/DataDog)
++ [scip AG](https://github.com/scipag)
++ [Zmap.io](https://github.com/zmap)
