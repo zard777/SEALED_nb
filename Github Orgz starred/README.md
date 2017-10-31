@@ -3,7 +3,7 @@
 + [Infobyte LLC](https://github.com/infobyte)
 + [Wifi Analyzer](https://github.com/wi-fi-analyzer)
 + [Lockheed Martin](https://github.com/lmco)
-+ [ZMap](https://github.com/zmap)
+
 + [EthereumJS](https://github.com/ethereumjs)
 + [Malware.lu](https://github.com/MalwareLu)
 + [Bastille Threat Research Team](https://github.com/BastilleResearch)
@@ -12,7 +12,7 @@
 + [Trail of Bits](https://github.com/trailofbits)
 + [Information Assurance by NSA](https://github.com/iadgov)
 + [Sensepost](https://github.com/sensepost)
-+ [SciPag](https://github.com/scipag)
+
 + [Reverse shell](https://github.com/reverse-shell)
 + [MWR Labs](https://github.com/mwrlabs)
 + [Gotham Digital Sec](https://github.com/GDSSecurity)
