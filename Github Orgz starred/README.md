@@ -27,3 +27,4 @@
 + [PowerShell Mafia](https://github.com/PowerShellMafia)
 + [UndeadSec](https://github.com/UndeadSec)
 + [MLSec Project](https://github.com/mlsecproject)
++ [Palantir Technologies](https://github.com/palantir) 
