@@ -28,4 +28,4 @@
 + [UndeadSec](https://github.com/UndeadSec)
 + [MLSec Project](https://github.com/mlsecproject)
 + [Palantir Technologies](https://github.com/palantir) 
-+ [CERT-BDF](https://github.com/CERT-BDF (The Hive Project) 
++ [CERT-BDF](https://github.com/CERT-BDF) (The Hive Project) 
