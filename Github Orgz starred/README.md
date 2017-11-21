@@ -32,3 +32,4 @@
 + [Genetic Malware](https://github.com/Genetic-Malware)
 + [EnableSecurity](https://github.com/EnableSecurity) 
 + [CRoCS](https://github.com/crocs-muni) 
++ [Embedi](https://github.com/embedi) 
