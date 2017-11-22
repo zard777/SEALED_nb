@@ -33,3 +33,5 @@
 + [EnableSecurity](https://github.com/EnableSecurity) 
 + [CRoCS](https://github.com/crocs-muni) 
 + [Embedi](https://github.com/embedi) 
++ [The Neo Project](https://github.com/neo-project) 
++ [Red Canary](https://github.com/redcanaryco) 
