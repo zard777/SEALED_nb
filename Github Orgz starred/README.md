@@ -1,6 +1,6 @@
 + [SpiderLabs](https://github.com/SpiderLabs)
 + [Yandex](https://github.com/Yandex)
-+ [Infobyte LLC](https://github.com/infobyte)
++ [Infobyte LLC](https://github.com/infobyte) - Faraday: Collaborative Penetration Test and Vulnerability Management Platform
 + [Wifi Analyzer](https://github.com/wi-fi-analyzer)
 + [Lockheed Martin](https://github.com/lmco) - Laika BOSS: Object Scanning System
 
