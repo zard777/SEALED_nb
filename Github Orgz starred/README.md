@@ -33,6 +33,6 @@
 + [EnableSecurity](https://github.com/EnableSecurity) 
 + [CRoCS](https://github.com/crocs-muni) 
 + [Embedi](https://github.com/embedi) 
-+ [The Neo Project](https://github.com/neo-project) 
++ [The Neo Project](https://github.com/neo-project) - Distributed Smart Economy Network (Blockchain techs)
 + [Red Canary](https://github.com/redcanaryco) 
 + [The Honeynet Project](https://github.com/honeynet) - Droidbot | Cuckoo Droid | CuckooML
