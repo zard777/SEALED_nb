@@ -2,7 +2,7 @@
 + [Yandex](https://github.com/Yandex)
 + [Infobyte LLC](https://github.com/infobyte)
 + [Wifi Analyzer](https://github.com/wi-fi-analyzer)
-+ [Lockheed Martin](https://github.com/lmco)
++ [Lockheed Martin](https://github.com/lmco) - Laika BOSS: Object Scanning System
 
 + [EthereumJS](https://github.com/ethereumjs)
 + [Malware.lu](https://github.com/MalwareLu)
