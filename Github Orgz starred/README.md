@@ -34,6 +34,7 @@
 + [CRoCS](https://github.com/crocs-muni) 
 + [Embedi](https://github.com/embedi) 
 + [The Neo Project](https://github.com/neo-project) - Distributed Smart Economy Network (Blockchain techs)
++ [Project Naptha](https://github.com/naptha) - highlight, copy, search, edit and translate text in any image _ OCR
 + [Red Canary](https://github.com/redcanaryco) 
 + [The Honeynet Project](https://github.com/honeynet) - Droidbot | Cuckoo Droid | CuckooML
 + [Recorded Future](https://github.com/recordedfuture) - API | IoC Enrichment in Threat Intel  
