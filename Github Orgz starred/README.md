@@ -43,3 +43,4 @@
 + [ThreatStream](https://github.com/threatstream) - Modern Honey Network | API | 
 + [CyberArk](https://github.com/cyberark) - CyberArk, the undisputed leader in Privileged Account Security, secures secrets used by machines and users to protect traditional and cloud-native apps.
 + [AppSecCo](https://github.com/appsecco) - OWASP Threat Dragon | Levelup-subdomain-enumeration 
++ [TryoLabs](https://github.com/tryolabs) - **Luminoth** - Deep Learning toolkit for Computer Vision 
