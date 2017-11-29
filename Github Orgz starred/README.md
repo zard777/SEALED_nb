@@ -14,7 +14,7 @@
 + [Sensepost](https://github.com/sensepost)
 
 + [Reverse shell](https://github.com/reverse-shell)
-+ [MWR Labs](https://github.com/mwrlabs) - solutions in all areas of cyber security, from professional and managed services, through to developing commercial and open source security tools. 
++ [MWR Labs](https://github.com/mwrlabs) - Drozer | Athena | Needle 
 
 + [Gotham Digital Sec](https://github.com/GDSSecurity)
 + [Synack](https://github.com/synack)
@@ -45,4 +45,5 @@
 + [CyberArk](https://github.com/cyberark) - CyberArk, the undisputed leader in Privileged Account Security, secures secrets used by machines and users to protect traditional and cloud-native apps.
 + [AppSecCo](https://github.com/appsecco) - OWASP Threat Dragon | Levelup-subdomain-enumeration 
 + [TryoLabs](https://github.com/tryolabs) - **Luminoth** - Deep Learning toolkit for Computer Vision 
-+ [Systems and Machine Learning](https://github.com/sysml) 
++ [Systems and Machine Learning](https://github.com/sysml) - BlockMon| HyperNF | LightVM 
++ [DroidSec](https://github.com/droidsec) - **canhazaxs** - enumerating the access of file system on Android devices  
