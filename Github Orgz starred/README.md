@@ -14,7 +14,8 @@
 + [Sensepost](https://github.com/sensepost)
 
 + [Reverse shell](https://github.com/reverse-shell)
-+ [MWR Labs](https://github.com/mwrlabs)
++ [MWR Labs](https://github.com/mwrlabs) - solutions in all areas of cyber security, from professional and managed services, through to developing commercial and open source security tools. 
+
 + [Gotham Digital Sec](https://github.com/GDSSecurity)
 + [Synack](https://github.com/synack)
 > 2017_Oct
