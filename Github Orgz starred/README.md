@@ -11,7 +11,7 @@
 + [NCC Group PLC](https://github.com/nccgroup)
 + [Trail of Bits](https://github.com/trailofbits)
 + [Information Assurance by NSA](https://github.com/iadgov)
-+ [Sensepost](https://github.com/sensepost)
++ [Sensepost](https://github.com/sensepost) - DNS-Shell | Mana (toolkit for wifi rogue AP attacks and MitM)
 
 + [Reverse shell](https://github.com/reverse-shell)
 + [MWR Labs](https://github.com/mwrlabs) - Drozer | Athena | Needle 
@@ -48,3 +48,4 @@
 + [Systems and Machine Learning](https://github.com/sysml) - BlockMon| HyperNF | LightVM 
 + [DroidSec](https://github.com/droidsec) - **canhazaxs** - enumerating the access of file system on Android devices  
 + [KromTech](https://github.com/kromtech) - AWS S3 Inspector 
++ [KudelskiSec](https://github.com/kudelskisecurity) - Scannerl | Check_all_apks | ThreatIntel_DomainGatherAggregator
