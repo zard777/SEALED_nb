@@ -49,3 +49,4 @@
 + [DroidSec](https://github.com/droidsec) - **canhazaxs** - enumerating the access of file system on Android devices  
 + [KromTech](https://github.com/kromtech) - AWS S3 Inspector 
 + [KudelskiSec](https://github.com/kudelskisecurity) - Scannerl | Check_all_apks | ThreatIntel_DomainGatherAggregator
++ [OpenSecResearch](https://github.com/OpenSecurityResearch) - hostapd-wpe | CuckooScraperScript | LANTapCap
