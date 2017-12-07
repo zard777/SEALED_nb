@@ -56,3 +56,5 @@
 + [Leviathan-Framework](https://github.com/leviathan-framework) - **`wide range mass audit toolkit`**
 + [CloudFlare](https://github.com/cloudflare) 
 + [RuntimeTools](https://github.com/RuntimeTools) - appmetrics | graphmetrics
++ [Click Security](https://github.com/ClickSecurity) - Click Security Data Hacking Project
++ [Alert Logic](https://github.com/alertlogic) - [ActiveIntegration API](https://docs.alertlogic.com/developer/AlertLogicActiveIntegrationAPIs.pdf)
