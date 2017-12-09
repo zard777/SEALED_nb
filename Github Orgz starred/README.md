@@ -52,6 +52,7 @@
 + [OpenSecResearch](https://github.com/OpenSecurityResearch) - hostapd-wpe | CuckooScraperScript | LANTapCap
 + [CERT-Tools](https://github.com/certtools) - IntelMQ | Contactdb
 > 2017_DEC
++ [CoinFoundry](https://github.com/coinfoundry)
 + [Shadowsocks](https://github.com/shadowsocks) - ChinaDNS | ShadowsocksX-NG
 + [Leviathan-Framework](https://github.com/leviathan-framework) - **`wide range mass audit toolkit`**
 + [CloudFlare](https://github.com/cloudflare) 
