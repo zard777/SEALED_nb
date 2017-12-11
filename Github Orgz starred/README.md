@@ -1,3 +1,4 @@
++ [Recon-NG source](https://bitbucket.org/LaNMaSteR53/recon-ng) 
 + [SpiderLabs](https://github.com/SpiderLabs)
 + [Yandex](https://github.com/Yandex)
 + [Infobyte LLC](https://github.com/infobyte) - Faraday: Collaborative Penetration Test and Vulnerability Management Platform
@@ -59,3 +60,4 @@
 + [RuntimeTools](https://github.com/RuntimeTools) - appmetrics | graphmetrics
 + [Click Security](https://github.com/ClickSecurity) - Click Security Data Hacking Project
 + [Alert Logic](https://github.com/alertlogic) - **[ActiveIntegration API](https://docs.alertlogic.com/developer/AlertLogicActiveIntegrationAPIs.pdf)**
++ [Praetorian Inc](https://github.com/praetorian-inc) - Damn Vulnerable Router Firmware Project | PyShell | Trudy
