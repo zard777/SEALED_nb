@@ -62,3 +62,4 @@
 + [Alert Logic](https://github.com/alertlogic) - **[ActiveIntegration API](https://docs.alertlogic.com/developer/AlertLogicActiveIntegrationAPIs.pdf)**
 + [Praetorian Inc](https://github.com/praetorian-inc) - Damn Vulnerable Router Firmware Project | PyShell | Trudy
 + [SummitRoute blog](https://summitroute.com/blog) - [Serene](https://summitroute.com/serene/) | [flAWS](http://flaws.cloud/) 
++ [SintheticLabs](https://github.com/SintheticLabs) - Docs
