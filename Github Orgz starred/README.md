@@ -4,7 +4,7 @@
 + [Infobyte LLC](https://github.com/infobyte) - Faraday: Collaborative Penetration Test and Vulnerability Management Platform
 + [Wifi Analyzer](https://github.com/wi-fi-analyzer)
 + [Lockheed Martin](https://github.com/lmco) - Laika BOSS: Object Scanning System
-
++ [HashiCorp](https://github.com/hashicorp) - Terraform | vault 
 + [EthereumJS](https://github.com/ethereumjs)
 + [Malware.lu](https://github.com/MalwareLu)
 + [Bastille Threat Research Team](https://github.com/BastilleResearch)
