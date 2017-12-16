@@ -53,6 +53,7 @@
 + [OpenSecResearch](https://github.com/OpenSecurityResearch) - hostapd-wpe | CuckooScraperScript | LANTapCap
 + [CERT-Tools](https://github.com/certtools) - IntelMQ | Contactdb
 > 2017_DEC
++ [ThreatResponse](https://github.com/ThreatResponse) - Open Source Security Suite for Hardening and Responding in AWS
 + [SecuritywithoutBorders](https://github.com/securitywithoutborders) 
 + [CoinFoundry](https://github.com/coinfoundry)
 + [Shadowsocks](https://github.com/shadowsocks) - ChinaDNS | ShadowsocksX-NG
