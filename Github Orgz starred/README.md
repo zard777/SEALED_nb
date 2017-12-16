@@ -67,3 +67,5 @@
 + [SummitRoute blog](https://summitroute.com/blog) - [Serene](https://summitroute.com/serene/) | [flAWS](http://flaws.cloud/) 
 + [SintheticLabs](https://github.com/SintheticLabs) - Docs
 + [SandiaLabs](https://github.com/sandialabs)
++ [SySS-Research](https://github.com/SySS-Research) 
++ [GoSecure](https://github.com/GoSecure?utf8=%E2%9C%93&q=&type=source) 
