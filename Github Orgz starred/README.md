@@ -73,3 +73,4 @@
 + [OWASP OWTF](https://github.com/owtf) - OWTF | [WAF bypasser](https://github.com/owtf/wafbypasser)
 + [CENSUS](https://github.com/CENSUS) 
 + [SecurityInnovation](https://github.com/SecurityInnovation) 
++ [Nightwatch Research](https://github.com/nightwatchcybersecurity) 
