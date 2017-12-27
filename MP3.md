@@ -1,5 +1,5 @@
 + **[Mix JPOP-2017](https://www.youtube.com/watch?v=qT2lp2zVSrE&index=2&list=RD6snKwUQLfnE)**
-+ **[Humming Life](https://www.youtube.com/channel/UCEXvSwi7BTovtVhZ6WVd4RA/about)**
++ **[Humming Life](https://www.youtube.com/channel/UCEXvSwi7BTovtVhZ6WVd4RA/about)** | [Soundcloud](https://soundcloud.com/humminglife)
 + **[leon](https://soundcloud.com/leyawn)**
 
 + **[Aimer](https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w)**
