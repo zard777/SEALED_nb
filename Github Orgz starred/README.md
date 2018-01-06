@@ -79,4 +79,4 @@
 + [IOHK|Cardano](https://github.com/input-output-hk) - **Carano-sl** - Cryptographic currency implementing Ouroboros PoS protocol
 + [Capsule8, Inc.](https://github.com/capsule8) - Container-Aware Real-time Threat Protection for Linux
 + [Sense of Security](https://github.com/sense-of-security) 
-+ [Arachni](https://github.com/Arachni) - **Arachni** 
++ [Arachni](https://github.com/Arachni) - **Arachni** -- Web Application Security Scanner Framework
