@@ -76,3 +76,4 @@
 + [Nightwatch Research](https://github.com/nightwatchcybersecurity) 
 > 2018_JAN
 + [IOHK|Cardano](https://github.com/input-output-hk) - **Carano-sl** - Cryptographic currency implementing Ouroboros PoS protocol
++ [Capsule8, Inc.](https://github.com/capsule8) - Container-Aware Real-time Threat Protection for Linux
