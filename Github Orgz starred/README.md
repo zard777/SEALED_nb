@@ -80,3 +80,4 @@
 + [Capsule8, Inc.](https://github.com/capsule8) - Container-Aware Real-time Threat Protection for Linux
 + [Sense of Security](https://github.com/sense-of-security) 
 + [Arachni](https://github.com/Arachni) - **Arachni** -- Web Application Security Scanner Framework
++ [Crowe Center for Cybersecurity](https://github.com/CroweCybersecurity) -- ad-ldap-enum | ps1encode
