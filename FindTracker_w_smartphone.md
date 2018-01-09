@@ -7,14 +7,19 @@
 
 + **``` ##002# ```** -- This is a universal code for switching off all forms of redirection away from your phone. It’s a good idea to use this before you have to use roaming. In this case, money won’t be taken from your account for calls that are redirected by default to your voice mail.
 
-## Special code 
-+ for iPhone: **``` *3001#12345#* ```**
-+ for Android: **``` *#*#4636#*#* or *#*#197328640#*#* ```**
+## Special code
 
-+ **Step 1.** Go to the section called UMTS Cell Environment, then UMTS RR info, and write down all the numbers under Cell ID. These numbers are the basic stations located nearby. Your phone will connect by default to the one that emits the best signal.
+- :ballot_box_with_check: for iPhone: **``` *3001#12345#* ```**
+- :ballot_box_with_check: for Android: **``` *#*#4636#*#* or *#*#197328640#*#* ```**
 
-+ **Step 2.** Go back to the main menu, and click on the MM info tab, then on Serving PLMN. Write down the numbers under Local Area Code (LAC).
++ **Step** :one: --  Go to the section called UMTS Cell Environment, then UMTS RR info, and write down all the numbers under Cell ID. These numbers are the basic stations located nearby. Your phone will connect by default to the one that emits the best signal.
 
-+ **Step 3.** With the help of these two numbers and an ordinary website (the fourth tab to the left), you can determine the location on the map of the basic station that your phone is connected to.
++ **Step** :two: -- Go back to the main menu, and click on the MM info tab, then on Serving PLMN. Write down the numbers under Local Area Code (LAC).
+
++ **Step** :three: -- With the help of these two numbers and an ordinary website (the fourth tab to the left), you can determine the location on the map of the basic station that your phone is connected to.
 
 ``` The ones to be suspicious of are mobile basic stations — this could be a truck or small bus with a large antenna. These kinds of vehicles are used at rock festivals and in places where Internet coverage is poor. If there’s one of them nearby, seemingly without any logical reason, it’s just possible that someone is engaged in spying. ```
+
+## Antivirus software 
+-  👎👎👎 high malicious: **``` PlaceRaider ```**
+-  👍👍👍  _Telegram, Chare, Wickr, or Signal._
