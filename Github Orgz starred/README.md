@@ -83,3 +83,4 @@
 + [Arachni](https://github.com/Arachni) - **Arachni** -- Web Application Security Scanner Framework
 + [Crowe Center for Cybersecurity](https://github.com/CroweCybersecurity) -- ad-ldap-enum | ps1encode
 + [Threat Express](https://github.com/threatexpress) - collection of Red Team scripts
++ [cSploit](https://github.com/cSploit) - The most complete and advanced IT security professional toolkit on Android.
