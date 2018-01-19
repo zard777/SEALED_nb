@@ -84,3 +84,4 @@
 + [Crowe Center for Cybersecurity](https://github.com/CroweCybersecurity) -- ad-ldap-enum | ps1encode
 + [Threat Express](https://github.com/threatexpress) - collection of Red Team scripts
 + [cSploit](https://github.com/cSploit) - The most complete and advanced IT security professional toolkit on Android.
++ [Pi-hole](https://github.com/pi-hole/) - **[Blog](https://pi-hole.net/)** | **```A BLACK HOLE FOR INTERNET ADVERTISEMENTS```**
