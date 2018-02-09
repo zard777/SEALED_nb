@@ -92,3 +92,4 @@
 + [Grey Noise Intelligence LLC](https://github.com/Grey-Noise-Intelligence) - [Web GUI](https://github.com/cbuto/greynoise-visualizer)
 > 2018_FEB
 + [Demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
++ [iSEC Partners @ NCC Group](https://github.com/iSECPartners) 
