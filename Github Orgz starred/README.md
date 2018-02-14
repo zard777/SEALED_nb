@@ -89,7 +89,7 @@
 + [Colly](https://github.com/gocolly) - Elegant Scraper Framework for Gophers 
 + [TwelveSec](https://github.com/twelvesec) - YOUR PARTNER IN ICT SECURITY
 + [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
-+ [Grey Noise Intelligence LLC](https://github.com/Grey-Noise-Intelligence) - [Web GUI](https://github.com/cbuto/greynoise-visualizer)
++ [Grey Noise Intelligence LLC](https://github.com/GreyNoise-Intelligence) - [Web GUI](https://github.com/cbuto/greynoise-visualizer)
 > 2018_FEB
 + [Demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
 + [iSEC Partners @ NCC Group](https://github.com/iSECPartners) 
