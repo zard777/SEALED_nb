@@ -95,3 +95,4 @@
 + [iSEC Partners @ NCC Group](https://github.com/iSECPartners) 
 + [Obscurity Labs © 2018](https://github.com/obscuritylabs) 
 + [RingZer0](https://github.com/TheRingZer0Team) - RingZER0 
++ [CylanceSPEAR](https://github.com/CylanceSPEAR) - Cylance's advanced research team
