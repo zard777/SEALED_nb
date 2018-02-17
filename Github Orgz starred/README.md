@@ -69,7 +69,7 @@
 + [SintheticLabs](https://github.com/SintheticLabs) - Docs
 + [SandiaLabs](https://github.com/sandialabs)
 + [SySS-Research](https://github.com/SySS-Research) -- Seth | dns-mitm 
-+ [GoSecure](https://github.com/GoSecure?utf8=%E2%9C%93&q=&type=source) 
++ [GoSecure](https://github.com/GoSecure/presentations) - [Malware IOCs](https://github.com/GoSecure/malware-ioc) 
 + [Netflix](https://github.com/Netflix) - [ChaosMonkey](https://github.com/Netflix/chaosmonkey) | [Security_Monkey]() | [Repokid](https://github.com/Netflix/repokid) 
 + [OWASP OWTF](https://github.com/owtf) - OWTF | [WAF bypasser](https://github.com/owtf/wafbypasser)
 + [CENSUS](https://github.com/CENSUS) 
