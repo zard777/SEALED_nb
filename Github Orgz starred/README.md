@@ -97,3 +97,4 @@
 + [RingZer0](https://github.com/TheRingZer0Team) - RingZER0 
 + [CylanceSPEAR](https://github.com/CylanceSPEAR) - Cylance's advanced research team
 + [MantaRay Forensics](https://github.com/mantarayforensics)
++ [AlphaSOC](https://github.com/alphasoc) || [Splunk apps](https://splunkbase.splunk.com/apps/#/author/alphasoc) 
