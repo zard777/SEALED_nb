@@ -98,3 +98,5 @@
 + [CylanceSPEAR](https://github.com/CylanceSPEAR) - Cylance's advanced research team
 + [MantaRay Forensics](https://github.com/mantarayforensics)
 + [AlphaSOC](https://github.com/alphasoc) || [Splunk apps](https://splunkbase.splunk.com/apps/#/author/alphasoc) 
++ [certBot](https://github.com/certbot) - **```Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.```**
++ [Unwired Labs](https://github.com/unwiredlabs) ||| **[API docs](https://unwiredlabs.com/api)**
