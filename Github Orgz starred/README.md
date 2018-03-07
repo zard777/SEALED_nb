@@ -109,3 +109,5 @@
 + [HoneyTrap](https://github.com/honeytrap) - Advanced Honeypot Framework 
 + [Veil-Framework](https://github.com/Veil-Framework) 
 + [TransparencyToolkit](https://github.com/TransparencyToolkit/TransparencyToolkit) 
++ [Alephdata](https://github.com/alephdata)
++ [Alfresco Software](https://github.com/Alfresco) - **[prowler](https://github.com/Alfresco/prowler)** || AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool
