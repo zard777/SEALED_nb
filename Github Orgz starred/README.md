@@ -89,7 +89,7 @@
 + [Colly](https://github.com/gocolly) - Elegant Scraper Framework for Gophers 
 + [TwelveSec](https://github.com/twelvesec) - YOUR PARTNER IN ICT SECURITY
 + [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
-+ [Grey Noise Intelligence LLC](https://github.com/GreyNoise-Intelligence) - [Web GUI](https://github.com/cbuto/greynoise-visualizer)
++ ***[Grey Noise Intelligence LLC](https://github.com/GreyNoise-Intelligence)*** - [Web GUI](https://github.com/cbuto/greynoise-visualizer)
 > 2018_FEB
 + [Demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
 + [iSEC Partners @ NCC Group](https://github.com/iSECPartners) 
@@ -109,5 +109,5 @@
 + [HoneyTrap](https://github.com/honeytrap) - Advanced Honeypot Framework 
 + [Veil-Framework](https://github.com/Veil-Framework) 
 + [TransparencyToolkit](https://github.com/TransparencyToolkit/TransparencyToolkit) 
-+ [Alephdata](https://github.com/alephdata)
++ [Alephdata](https://github.com/alephdata) - Developed by @occrp and many others
 + [Alfresco Software](https://github.com/Alfresco) - **[prowler](https://github.com/Alfresco/prowler)** || AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool
