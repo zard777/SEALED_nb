@@ -2,7 +2,7 @@
 + [Recon-NG source](https://bitbucket.org/LaNMaSteR53/recon-ng) 
 + [SpiderLabs](https://github.com/SpiderLabs)
 + [Yandex](https://github.com/Yandex)
-+ [Infobyte LLC](https://github.com/infobyte) - Faraday: Collaborative Penetration Test and Vulnerability Management Platform
++ **[Infobyte LLC](https://github.com/infobyte)** - **Faraday: Collaborative Penetration Test and Vulnerability Management Platform**
 + [Wifi Analyzer](https://github.com/wi-fi-analyzer)
 + [Lockheed Martin](https://github.com/lmco) - Laika BOSS: Object Scanning System
 + [HashiCorp](https://github.com/hashicorp) - Terraform | vault 
@@ -111,3 +111,5 @@
 + [TransparencyToolkit](https://github.com/TransparencyToolkit/TransparencyToolkit) 
 + [Alephdata](https://github.com/alephdata) - Developed by @occrp and many others
 + [Alfresco Software](https://github.com/Alfresco) - **[prowler](https://github.com/Alfresco/prowler)** || AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool
++ [Ruhr University Bochum - Chair for Network and Data Security](https://github.com/RUB-NDS) - [Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
++ [HatBashBR](https://github.com/HatBashBR) - [ShodanHAT](https://github.com/HatBashBR/ShodanHat) || [Hatwich](https://github.com/HatBashBR/Hatwitch) 
