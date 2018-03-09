@@ -3,7 +3,11 @@
 + [SpiderLabs](https://github.com/SpiderLabs)
 + [Yandex](https://github.com/Yandex)
 + **[Infobyte LLC](https://github.com/infobyte)** - **Faraday: Collaborative Penetration Test and Vulnerability Management Platform**
-+ [Wifi Analyzer](https://github.com/wi-fi-analyzer)
+
++ [Wifi Analyzer](https://github.com/wi-fi-analyzer) - [detect people around](https://github.com/wi-fi-analyzer/howmanypeoplearearound) || **[netattack2](https://github.com/wi-fi-analyzer/netattack2)**. 
+
+[-] **[FluxionNetwork](https://github.com/FluxionNetwork)** - **[fluxion](https://github.com/FluxionNetwork/fluxion)**
+
 + [Lockheed Martin](https://github.com/lmco) - Laika BOSS: Object Scanning System
 + [HashiCorp](https://github.com/hashicorp) - Terraform | vault 
 + [EthereumJS](https://github.com/ethereumjs)
