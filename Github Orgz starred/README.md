@@ -125,3 +125,4 @@
 + [CoreSecurity](https://github.com/CoreSecurity) - [impacket](https://github.com/CoreSecurity/impacket) -- collection of Python classes for working with network protocols.
 + _[Guardicore Ltd.](https://github.com/guardicore)_ -- **[Infection Monkey](https://github.com/guardicore/monkey)** _ automated pentest monkey
 + [HardenedLinux](https://github.com/hardenedlinux) -- [Firmware_security](https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/firmware_security.md) || **[Linux Exploit Tutorial](https://github.com/hardenedlinux/linux-exploit-development-tutorial)** 
++ [Taipan-scanner](https://github.com/taipan-scanner/Taipan) -- Webapp security scanner. 
