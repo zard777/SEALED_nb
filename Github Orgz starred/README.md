@@ -126,3 +126,6 @@
 + _[Guardicore Ltd.](https://github.com/guardicore)_ -- **[Infection Monkey](https://github.com/guardicore/monkey)** _ automated pentest monkey
 + [HardenedLinux](https://github.com/hardenedlinux) -- [Firmware_security](https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/firmware_security.md) || **[Linux Exploit Tutorial](https://github.com/hardenedlinux/linux-exploit-development-tutorial)** 
 + [Taipan-scanner](https://github.com/taipan-scanner/Taipan) -- Webapp security scanner. 
++ [SafeBreach-Labs](https://github.com/SafeBreach-Labs) 
++ [MITRE Corp](https://github.com/mitre) - [Multi-scanner](https://github.com/mitre/multiscanner) || **[Caldera](https://github.com/mitre/caldera)**
++ **[RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS)** -- VMs for Adversary Emulation and Threat Hunting
