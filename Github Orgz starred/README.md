@@ -133,3 +133,5 @@
 + [MITRE Corp](https://github.com/mitre) - [Multi-scanner](https://github.com/mitre/multiscanner) || **[Caldera](https://github.com/mitre/caldera)**
 + **[RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS)** -- VMs for Adversary Emulation and Threat Hunting
 + [Yelp](https://github.com/Yelp) - **[Threat Intelligence APIs](https://github.com/Yelp/threat_intel)** 
+> 2018_APRIL
++ [AWS Samples](https://github.com/aws-samples) -- [Amazon ECS Interstella workshop](https://github.com/aws-samples/amazon-ecs-interstella-workshop)
