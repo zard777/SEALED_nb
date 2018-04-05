@@ -137,3 +137,5 @@
 + [AWS Samples](https://github.com/aws-samples) -- [Amazon ECS Interstella workshop](https://github.com/aws-samples/amazon-ecs-interstella-workshop)
 + [SECFORCE](https://github.com/SECFORCE) -- [sparta](https://github.com/SECFORCE/sparta) - Network Infra pentest tool || [Tunna](https://github.com/SECFORCE/Tunna) - set of tools to Wrap & Tunnel any TCP over HTTP
 + [NORMA-Inc/AtEar](https://github.com/NORMA-Inc/AtEar) -- Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
++ [SANS Blue Team](https://github.com/sans-blue-team) -- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
++ [open-guides](https://github.com/open-guides) -- **[og-AWS](https://github.com/open-guides/og-aws)** - AWS practical guide. 
