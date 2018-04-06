@@ -139,3 +139,5 @@
 + [NORMA-Inc/AtEar](https://github.com/NORMA-Inc/AtEar) -- Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
 + [SANS Blue Team](https://github.com/sans-blue-team) -- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 + [open-guides](https://github.com/open-guides) -- **[og-AWS](https://github.com/open-guides/og-aws)** - AWS practical guide. 
+
+### 🔯 **[Google/Fuzzing-AllTheThings](https://github.com/google?utf8=✓&q=fuzz)** --- **[OSS-Fuzz](https://github.com/google/oss-fuzz)** ||| **[honggfuzz](https://github.com/google/honggfuzz)**
