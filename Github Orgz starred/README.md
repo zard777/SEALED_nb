@@ -1,5 +1,21 @@
 ### 🔯 **[Google/Fuzzing-AllTheThings](https://github.com/google?utf8=✓&q=fuzz)** --- **[OSS-Fuzz](https://github.com/google/oss-fuzz)** ||| **[honggfuzz](https://github.com/google/honggfuzz)**
 
+### ⛅ [Cloud Foundry Foundation](https://github.com/cloudfoundry)
+1) **[BOSH](https://github.com/cloudfoundry/bosh)** - BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. 
+2) 📋 **[Bosh Guide 101](https://mariash.github.io/learn-bosh/#introduction)** 
+
+
+### 🐝 **[TheHive-Project](https://github.com/TheHive-Project)** --- [Unveiling Cortex 2](https://blog.thehive-project.org/2018/03/29/unveiling-cortex-2) 
+
+1) **[TheHive-Docs](https://github.com/TheHive-Project/TheHiveDocs)** - Documentation of TheHive
+2) **[Cortex](https://github.com/TheHive-Project/Cortex)** - Powerful Observable Analysis Engine.
+3) **[TheHive](https://github.com/TheHive-Project/TheHive)** - Scalable, Open Source and Free Security Incident Response Platform.
+
+
+
+
+***
+
 + **[scip AG](https://github.com/scipag)** -- **[vulscan](https://github.com/scipag/vulscan)** | **[httpRecon-NSE](https://github.com/scipag/httprecon-nse)** | [FileRecon](https://github.com/scipag/filerecon)
 + [NCC Group PLC](https://github.com/nccgroup)
 + [Trail of Bits](https://github.com/trailofbits)
@@ -40,7 +56,7 @@
 + [UndeadSec](https://github.com/UndeadSec)
 + [MLSec Project](https://github.com/mlsecproject)
 + [Palantir Technologies](https://github.com/palantir) 
-+ [CERT-BDF](https://github.com/CERT-BDF) (The Hive Project) 
+ 
 + [Genetic Malware](https://github.com/Genetic-Malware)
 + [EnableSecurity](https://github.com/EnableSecurity) 
 + [CRoCS](https://github.com/crocs-muni) 
@@ -124,7 +140,6 @@
 + [HatBashBR](https://github.com/HatBashBR) - [ShodanHAT](https://github.com/HatBashBR/ShodanHat) || [Hatwich](https://github.com/HatBashBR/Hatwitch) 
 + [Pentestify](https://github.com/pentestify) - [Unofficial API OpenCorporates](https://github.com/pentestify/opencorporates) || [Unofficial API Censys](https://github.com/pentestify/censys) || [WHOISology](https://github.com/pentestify/whoisology).
  
-[-] [Cloud Foundry Foundation](https://github.com/cloudfoundry) - [BOSH](https://github.com/cloudfoundry/bosh) - BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. 📋 [Bosh Guide 101](https://mariash.github.io/learn-bosh/#introduction) 
 
 + [Commix Project](https://github.com/commixproject) - [Commix](https://github.com/commixproject/commix) - Command Injection Exploiter
 + [CoreSecurity](https://github.com/CoreSecurity) - [impacket](https://github.com/CoreSecurity/impacket) -- collection of Python classes for working with network protocols.
