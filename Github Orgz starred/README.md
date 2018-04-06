@@ -1,3 +1,5 @@
+### 🔯 **[Google/Fuzzing-AllTheThings](https://github.com/google?utf8=✓&q=fuzz)** --- **[OSS-Fuzz](https://github.com/google/oss-fuzz)** ||| **[honggfuzz](https://github.com/google/honggfuzz)**
+
 + **[scip AG](https://github.com/scipag)** -- **[vulscan](https://github.com/scipag/vulscan)** | **[httpRecon-NSE](https://github.com/scipag/httprecon-nse)** | [FileRecon](https://github.com/scipag/filerecon)
 + [NCC Group PLC](https://github.com/nccgroup)
 + [Trail of Bits](https://github.com/trailofbits)
@@ -140,4 +142,6 @@
 + [SANS Blue Team](https://github.com/sans-blue-team) -- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 + [open-guides](https://github.com/open-guides) -- **[og-AWS](https://github.com/open-guides/og-aws)** - AWS practical guide. 
 
-### 🔯 **[Google/Fuzzing-AllTheThings](https://github.com/google?utf8=✓&q=fuzz)** --- **[OSS-Fuzz](https://github.com/google/oss-fuzz)** ||| **[honggfuzz](https://github.com/google/honggfuzz)**
++ [CERT Coordination Center (CERT/CC)](https://github.com/CERTCC) -- [certfuzz](https://github.com/CERTCC/certfuzz) ||| [Vulnerability Data Archive Tools](https://github.com/CERTCC/Vulnerability-Data-Archive-Tools) - attempt at providing a simple means of interacting with the CERT Vulnerability Data Archive. 
+
++ [NetBlocks Framework](https://github.com/ntblk) -- [WebRTC privacy](https://github.com/ntblk/webrtc-privacy) ||| [Block crawlers](https://github.com/ntblk/block-crawler)
