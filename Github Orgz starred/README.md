@@ -5,7 +5,7 @@
 2) 📋 **[Bosh Guide 101](https://mariash.github.io/learn-bosh/#introduction)** 
 
 
-### 🐝 **[TheHive-Project](https://github.com/TheHive-Project)** --- [Unveiling Cortex 2](https://blog.thehive-project.org/2018/03/29/unveiling-cortex-2) 
+### 🐝 **[TheHive-Project](https://github.com/TheHive-Project)** _|Security Incident Response for the Masses|_ --- [Unveiling Cortex 2](https://blog.thehive-project.org/2018/03/29/unveiling-cortex-2) 
 
 1) **[TheHive-Docs](https://github.com/TheHive-Project/TheHiveDocs)** - Documentation of TheHive
 2) **[Cortex](https://github.com/TheHive-Project/Cortex)** - Powerful Observable Analysis Engine.
