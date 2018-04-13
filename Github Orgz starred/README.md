@@ -12,6 +12,9 @@
 3) **[TheHive](https://github.com/TheHive-Project/TheHive)** - Scalable, Open Source and Free Security Incident Response Platform.
 
 
+### ⚠️⚠️ [FIRST.org/Common Vulnerability Scoring System Version 3.0 Calculator](https://www.first.org/cvss/calculator/3.0) - Forum of Incident Response and Security Teams
+
++ **[[global-irt](https://github.com/FIRSTdotorg/global-irt)]** - Global IRT (Incident Response Team) is a project to describe common IRT and abuse contact information. 
 
 
 ***
@@ -160,3 +163,6 @@
 + [CERT Coordination Center (CERT/CC)](https://github.com/CERTCC) -- [certfuzz](https://github.com/CERTCC/certfuzz) ||| [Vulnerability Data Archive Tools](https://github.com/CERTCC/Vulnerability-Data-Archive-Tools) - attempt at providing a simple means of interacting with the CERT Vulnerability Data Archive. 
 
 + [NetBlocks Framework](https://github.com/ntblk) -- [WebRTC privacy](https://github.com/ntblk/webrtc-privacy) ||| [Block crawlers](https://github.com/ntblk/block-crawler)
+
++ [BetterCryoto.org](https://bettercrypto.org) -- **[Applied Crypto Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)** - Best Current Practices regarding secure online communication and configuration of services using cryptography.
+
