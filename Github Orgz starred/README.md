@@ -172,4 +172,6 @@
 + [NetBlocks Framework](https://github.com/ntblk) -- [WebRTC privacy](https://github.com/ntblk/webrtc-privacy) ||| [Block crawlers](https://github.com/ntblk/block-crawler)
 
 + [BetterCryoto.org](https://bettercrypto.org) -- **[Applied Crypto Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)** - Best Current Practices regarding secure online communication and configuration of services using cryptography.
++ [OpenDNS](https://github.com/opendns) -- [DNSCrypt Windows Client](https://github.com/opendns/dnscrypt-win-client) || [py_investigate](https://github.com/opendns/pyinvestigate) || [Ninja_AppSec_Training](https://github.com/opendns/Security_Ninjas_AppSec_Training) || **[OpenGraphiti](http://www.opengraphiti.com)** - OpenDNS Data Visualization Framework. 
+
 
