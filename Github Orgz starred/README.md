@@ -22,7 +22,7 @@
 1) **[certfuzz](https://github.com/CERTCC/certfuzz)** - This project contains the source code for the CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine.
 2) **[Vulnerability Data Archive Tools](https://github.com/CERTCC/Vulnerability-Data-Archive-Tools)** - attempt at providing a simple means of interacting with the CERT Vulnerability Data Archive. 
 
-### [Amazon](https://github.com/amzn) - [Amazon Web Services](https://github.com/aws) - [AWS Labs](https://github.com/awslabs)
+### 🛒 [Amazon](https://github.com/amzn) - [Amazon Web Services](https://github.com/aws) - [AWS Labs](https://github.com/awslabs)
 
 1) **[Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)** -- The Open Guide to Amazon Web Services.
 
