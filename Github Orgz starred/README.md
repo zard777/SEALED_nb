@@ -22,6 +22,15 @@
 1) **[certfuzz](https://github.com/CERTCC/certfuzz)** - This project contains the source code for the CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine.
 2) **[Vulnerability Data Archive Tools](https://github.com/CERTCC/Vulnerability-Data-Archive-Tools)** - attempt at providing a simple means of interacting with the CERT Vulnerability Data Archive. 
 
+### [Amazon](https://github.com/amzn) - [Amazon Web Services](https://github.com/aws) - [AWS Labs](https://github.com/awslabs)
+
+1) **[Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)** -- The Open Guide to Amazon Web Services.
+
+2) **[AWS Samples](https://github.com/aws-samples) -- [Amazon ECS Interstella workshop](https://github.com/aws-samples/amazon-ecs-interstella-workshop)
+
+3) **[AWS Security Automation](https://github.com/awslabs/aws-security-automation)** - Collection of scripts and resources for DevSecOps, Security Automation and Automated Incident Response Remediation.
+
+
 
 ***
 
@@ -163,7 +172,7 @@
 + [Yelp](https://github.com/Yelp) - **[Threat Intelligence APIs](https://github.com/Yelp/threat_intel)**
 
 > 2018_APRIL
-+ [AWS Samples](https://github.com/aws-samples) -- [Amazon ECS Interstella workshop](https://github.com/aws-samples/amazon-ecs-interstella-workshop)
+
 + [SECFORCE](https://github.com/SECFORCE) -- [sparta](https://github.com/SECFORCE/sparta) - Network Infra pentest tool || [Tunna](https://github.com/SECFORCE/Tunna) - set of tools to Wrap & Tunnel any TCP over HTTP
 + [NORMA-Inc/AtEar](https://github.com/NORMA-Inc/AtEar) -- Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
 + [SANS Blue Team](https://github.com/sans-blue-team) -- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
@@ -173,5 +182,6 @@
 
 + [BetterCryoto.org](https://bettercrypto.org) -- **[Applied Crypto Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)** - Best Current Practices regarding secure online communication and configuration of services using cryptography.
 + [OpenDNS](https://github.com/opendns) -- [DNSCrypt Windows Client](https://github.com/opendns/dnscrypt-win-client) || [py_investigate](https://github.com/opendns/pyinvestigate) || [Ninja_AppSec_Training](https://github.com/opendns/Security_Ninjas_AppSec_Training) || **[OpenGraphiti](http://www.opengraphiti.com)** - OpenDNS Data Visualization Framework. 
+
 
 
