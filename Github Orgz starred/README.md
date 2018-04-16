@@ -26,7 +26,7 @@
 
 1) **[Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)** -- The Open Guide to Amazon Web Services.
 
-2) **[AWS Samples](https://github.com/aws-samples) -- [Amazon ECS Interstella workshop](https://github.com/aws-samples/amazon-ecs-interstella-workshop)
+2) **[AWS Samples](https://github.com/aws-samples)** -- **[Amazon ECS Interstella workshop](https://github.com/aws-samples/amazon-ecs-interstella-workshop)**
 
 3) **[AWS Security Automation](https://github.com/awslabs/aws-security-automation)** - Collection of scripts and resources for DevSecOps, Security Automation and Automated Incident Response Remediation.
 
