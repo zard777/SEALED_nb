@@ -31,6 +31,9 @@
 3) **[AWS Security Automation](https://github.com/awslabs/aws-security-automation)** - Collection of scripts and resources for DevSecOps, Security Automation and Automated Incident Response Remediation.
 
 
+### 🔗 [MitM-proxy](https://github.com/mitmproxy) 
+- **[MitM proxy](https://mitmproxy.org) - An opensource interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.**
+
 
 ***
 
