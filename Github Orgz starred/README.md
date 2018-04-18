@@ -193,12 +193,11 @@
 + [SECFORCE](https://github.com/SECFORCE) -- [sparta](https://github.com/SECFORCE/sparta) - Network Infra pentest tool || [Tunna](https://github.com/SECFORCE/Tunna) - set of tools to Wrap & Tunnel any TCP over HTTP
 + [NORMA-Inc/AtEar](https://github.com/NORMA-Inc/AtEar) -- Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
 + [SANS Blue Team](https://github.com/sans-blue-team) -- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
-+ [open-guides](https://github.com/open-guides) -- **[og-AWS](https://github.com/open-guides/og-aws)** - AWS practical guide. 
 
 + [NetBlocks Framework](https://github.com/ntblk) -- [WebRTC privacy](https://github.com/ntblk/webrtc-privacy) ||| [Block crawlers](https://github.com/ntblk/block-crawler)
 
 + [BetterCryoto.org](https://bettercrypto.org) -- **[Applied Crypto Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)** - Best Current Practices regarding secure online communication and configuration of services using cryptography.
 + [OpenDNS](https://github.com/opendns) -- [DNSCrypt Windows Client](https://github.com/opendns/dnscrypt-win-client) || [py_investigate](https://github.com/opendns/pyinvestigate) || [Ninja_AppSec_Training](https://github.com/opendns/Security_Ninjas_AppSec_Training) || **[OpenGraphiti](http://www.opengraphiti.com)** - OpenDNS Data Visualization Framework. 
 
-
++ **[AustralianCyberSecurityCentre/windows_event_logging](https://github.com/AustralianCyberSecurityCentre/windows_event_logging)** -- Windows Event Forwarding subscriptions, configuration files and scripts that assist with implementing ACSC's protect publication, Technical Guidance for Windows Event Logging.
 
