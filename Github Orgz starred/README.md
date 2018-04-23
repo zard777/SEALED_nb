@@ -201,3 +201,4 @@
 
 + **[AustralianCyberSecurityCentre/windows_event_logging](https://github.com/AustralianCyberSecurityCentre/windows_event_logging)** -- Windows Event Forwarding subscriptions, configuration files and scripts that assist with implementing ACSC's protect publication, Technical Guidance for Windows Event Logging.
 
++ [Snort 3.0](https://github.com/snort3/snort3) -|- [Documentation](https://github.com/snort3/snort3#documentation) -- Snort3 project has been hard at work for a while now and we have released the 4th alpha of the next generation Snort IPS (Intrusion Prevention System).
