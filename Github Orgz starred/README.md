@@ -51,6 +51,13 @@
 
 ***
 
+### ✨ [Comae Technologies](https://github.com/comaeio) 
+1) **[OPCDE]**(https://github.com/comaeio/OPCDE) - OPCDE DXB 2017 + 2018 Materials
+2) [Hibr2Bin](https://github.com/comaeio/Hibr2Bin) - Comae Hibernation File Decompressor (SANDMAN project)
+3) **[porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts**
+
+***
+
 + **[scip AG](https://github.com/scipag)** -- **[vulscan](https://github.com/scipag/vulscan)** | **[httpRecon-NSE](https://github.com/scipag/httprecon-nse)** | [FileRecon](https://github.com/scipag/filerecon)
 + [NCC Group PLC](https://github.com/nccgroup)
 + [Trail of Bits](https://github.com/trailofbits)
@@ -202,3 +209,4 @@
 + **[AustralianCyberSecurityCentre/windows_event_logging](https://github.com/AustralianCyberSecurityCentre/windows_event_logging)** -- Windows Event Forwarding subscriptions, configuration files and scripts that assist with implementing ACSC's protect publication, Technical Guidance for Windows Event Logging.
 
 + [Snort 3.0](https://github.com/snort3/snort3) -|- [Documentation](https://github.com/snort3/snort3#documentation) -- Snort3 project has been hard at work for a while now and we have released the 4th alpha of the next generation Snort IPS (Intrusion Prevention System).
+
