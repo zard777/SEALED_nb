@@ -51,7 +51,7 @@
 
 ***
 
-### ✨ [Comae Technologies](https://github.com/comaeio) 
+### ✨ [Comae Technologies](https://github.com/comaeio) _| Stardust |_
 1) **[OPCDE](https://github.com/comaeio/OPCDE)** - OPCDE DXB 2017 + 2018 Materials
 2) [Hibr2Bin](https://github.com/comaeio/Hibr2Bin) - Comae Hibernation File Decompressor (SANDMAN project)
 3) **[porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts**
