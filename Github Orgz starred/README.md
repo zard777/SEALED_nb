@@ -58,14 +58,33 @@
 
 ***
 
-+ **[scip AG](https://github.com/scipag)** -- **[vulscan](https://github.com/scipag/vulscan)** | **[httpRecon-NSE](https://github.com/scipag/httprecon-nse)** | [FileRecon](https://github.com/scipag/filerecon)
+## 🆖 [Ngrok](https://github.com/inconshreveable/ngrok) - ”I want to expose a local server behind a NAT or firewall to the internet.”
+### [Documentation](https://ngrok.com/docs)
+### [Social Fish](https://github.com/UndeadSec/SocialFish) -- Ultimate phishing tool with Ngrok integrated.
+
+
+
+***
+# HARDCORE
+
+## 🐻 [*] [scip AG/ vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
+##  [httpRecon-NSE](https://github.com/scipag/httprecon-nse) - Advanced web server fingerprinting for Nmap
+- **[FileRecon](https://github.com/scipag/filerecon)** - Advanced File Fingerprinting
+
+### 🕷 [*] [SpiderLabs/ Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
+
+- **[ModSecurity v3 Apache Connector](https://github.com/SpiderLabs/ModSecurity-apache)** - The ModSecurity-apache connector takes the form of an Apache module. The module simply serves as a layer of communication between Apache and ModSecurity.
+
+***
+
 + [NCC Group PLC](https://github.com/nccgroup)
 + [Trail of Bits](https://github.com/trailofbits)
 + [Information Assurance by NSA](https://github.com/iadgov)
 
 + [Hack-Night from ISIS_Lab](https://github.com/isislab/Hack-Night)
 + [Recon-NG source](https://bitbucket.org/LaNMaSteR53/recon-ng) 
-+ [SpiderLabs](https://github.com/SpiderLabs)
+
+
 + [Yandex](https://github.com/Yandex)
 + **[Infobyte LLC](https://github.com/infobyte)** - **Faraday: Collaborative Penetration Test and Vulnerability Management Platform**
 
@@ -93,9 +112,12 @@
 
 + [Zmap.io](https://github.com/zmap)
 + [11Paths](https://github.com/ElevenPaths) -- HiddenNetworks-Python
+
 > 2017_Nov
++ [UndeadSec](https://github.com/UndeadSec) -- **[EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode evil domains for IDN Homograph Attack and detect them. ||| [Enigma](https://github.com/UndeadSec/Enigma) - Multiplatform payload dropper**
+
 + [PowerShell Mafia](https://github.com/PowerShellMafia)
-+ [UndeadSec](https://github.com/UndeadSec)
+
 + [MLSec Project](https://github.com/mlsecproject)
 + [Palantir Technologies](https://github.com/palantir) 
  
