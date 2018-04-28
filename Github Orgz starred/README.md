@@ -58,9 +58,9 @@
 
 ***
 
-## 🆖 [Ngrok](https://github.com/inconshreveable/ngrok) - ”I want to expose a local server behind a NAT or firewall to the internet.”
+## 🆖 [Ngrok](https://github.com/inconshreveable/ngrok) - ”I want to expose a local server behind a NAT or firewall to the internet.” -- [The making of Ngrok - Alan Shreve](https://www.youtube.com/watch?v=F_xNOVY96Ng) 
 ### [Documentation](https://ngrok.com/docs)
-### [Social Fish](https://github.com/UndeadSec/SocialFish) -- Ultimate phishing tool with Ngrok integrated.
+### [UndeadSec/Social Fish](https://github.com/UndeadSec/SocialFish) -- Ultimate phishing tool with Ngrok integrated.
 
 
 
@@ -73,7 +73,10 @@
 
 ### 🕷 [*] [SpiderLabs/ Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 
-- **[ModSecurity v3 Apache Connector](https://github.com/SpiderLabs/ModSecurity-apache)** - The ModSecurity-apache connector takes the form of an Apache module. The module simply serves as a layer of communication between Apache and ModSecurity.
+1) **[ModSecurity/Wiki](https://github.com/SpiderLabs/ModSecurity/wiki)** - It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
+
+2) **[ModSecurity v3 Apache Connector](https://github.com/SpiderLabs/ModSecurity-apache)** - The ModSecurity-apache connector takes the form of an Apache module. The module simply serves as a layer of communication between Apache and ModSecurity.
+3) **[ModSecurity v3 Nginx Connector](https://github.com/SpiderLabs/ModSecurity-nginx)** - The ModSecurity-nginx connector takes the form of an nginx module. The module simply serves as a layer of communication between nginx and ModSecurity.
 
 ***
 
@@ -142,6 +145,7 @@
 + [KudelskiSec](https://github.com/kudelskisecurity) - Scannerl | Check_all_apks | ThreatIntel_DomainGatherAggregator
 + [OpenSecResearch](https://github.com/OpenSecurityResearch) - hostapd-wpe | CuckooScraperScript | LANTapCap
 + [CERT-Tools](https://github.com/certtools) - IntelMQ | Contactdb
+
 > 2017_DEC
 + [Crypto101](https://github.com/crypto101) - Crypto 101, the introductory book on cryptography.
 + [ThreatResponse](https://github.com/ThreatResponse) - Open Source Security Suite for Hardening and Responding in AWS
@@ -164,6 +168,7 @@
 + [CENSUS](https://github.com/CENSUS) 
 + [SecurityInnovation](https://github.com/SecurityInnovation) 
 + [Nightwatch Research](https://github.com/nightwatchcybersecurity) 
+
 > 2018_JAN
 + [Target](https://github.com/target) - Webbreaker -- Dynamic Application Security Test Orchestration. 
 + [IOHK|Cardano](https://github.com/input-output-hk) - **Carano-sl** - Cryptographic currency implementing Ouroboros PoS protocol
@@ -176,9 +181,10 @@
 + [Pi-hole](https://github.com/pi-hole/) - **[Blog](https://pi-hole.net/)** | **```A BLACK HOLE FOR INTERNET ADVERTISEMENTS```**
 + [FireHOL Project](https://github.com/firehol) 
 + [Colly](https://github.com/gocolly) - Elegant Scraper Framework for Gophers 
-+ [TwelveSec](https://github.com/twelvesec) - YOUR PARTNER IN ICT SECURITY
+
 + [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 + ***[Grey Noise Intelligence LLC](https://github.com/GreyNoise-Intelligence)*** - [Web GUI](https://github.com/cbuto/greynoise-visualizer)
+
 > 2018_FEB
 + [Demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
 + [iSEC Partners @ NCC Group](https://github.com/iSECPartners) 
@@ -232,3 +238,4 @@
 
 + [Snort 3.0](https://github.com/snort3/snort3) -|- [Documentation](https://github.com/snort3/snort3#documentation) -- Snort3 project has been hard at work for a while now and we have released the 4th alpha of the next generation Snort IPS (Intrusion Prevention System).
 
++ [TwelveSec](https://github.com/twelvesec) - YOUR PARTNER IN ICT SECURITY ||| [Gasmask](https://github.com/twelvesec/gasmask) - OSINT gathering tool ||| **[Bluenotes](https://github.com/twelvesec/bluenotes) - PowerShell notes on Windows.**
