@@ -238,4 +238,4 @@
 
 + [Snort 3.0](https://github.com/snort3/snort3) -|- [Documentation](https://github.com/snort3/snort3#documentation) -- Snort3 project has been hard at work for a while now and we have released the 4th alpha of the next generation Snort IPS (Intrusion Prevention System).
 
-+ [TwelveSec](https://github.com/twelvesec) - YOUR PARTNER IN ICT SECURITY ||| [Gasmask](https://github.com/twelvesec/gasmask) - OSINT gathering tool ||| **[Bluenotes](https://github.com/twelvesec/bluenotes) - PowerShell notes on Windows.**
++ [TwelveSec/Gasmask](https://github.com/twelvesec/gasmask) - OSINT gathering tool ||| **[Bluenotes](https://github.com/twelvesec/bluenotes) - PowerShell notes on Windows.**
