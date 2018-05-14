@@ -62,6 +62,9 @@
 ### [Documentation](https://ngrok.com/docs)
 ### [UndeadSec/Social Fish](https://github.com/UndeadSec/SocialFish) -- Ultimate phishing tool with Ngrok integrated.
 
+## 📗 [Splunk/BOSS of SOC Dataset v1](https://github.com/splunk/botsv1) - 
+1) **[EventGen](https://github.com/splunk/eventgen)** - The Splunk Event Generator is a utility which allows its user to easily build real-time event generators.
+2) **[Docker Logging plugin](https://github.com/splunk/docker-logging-plugin)** - Splunk Connect for Docker is a Docker logging plugin that allows docker containers to send their logs directly to Splunk Enterprise or a Splunk Cloud deployment.
 
 
 ***
@@ -134,7 +137,7 @@
 + [The Honeynet Project](https://github.com/honeynet) - Droidbot | Cuckoo Droid | CuckooML
 + [Recorded Future](https://github.com/recordedfuture) - API | IoC Enrichment in Threat Intel  
 + [REST Cheatsheet](https://github.com/RestCheatSheet) - RESTFUL cheatsheet 
-+ [Splunk](https://github.com/splunk) - produces software for searching, monitoring, and analyzing machine-generated big data, via a Web-style interface.
+
 + [ThreatStream](https://github.com/threatstream) - Modern Honey Network | API | 
 + [CyberArk](https://github.com/cyberark) - CyberArk, the undisputed leader in Privileged Account Security, secures secrets used by machines and users to protect traditional and cloud-native apps.
 + [AppSecCo](https://github.com/appsecco) - OWASP Threat Dragon | Levelup-subdomain-enumeration 
