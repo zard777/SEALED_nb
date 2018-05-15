@@ -62,12 +62,21 @@
 ### [Documentation](https://ngrok.com/docs)
 ### [UndeadSec/Social Fish](https://github.com/UndeadSec/SocialFish) -- Ultimate phishing tool with Ngrok integrated.
 
+***
+
 ## 📗 [Splunk/BOSS of SOC Dataset v1](https://github.com/splunk/botsv1) - 
 1) **[EventGen](https://github.com/splunk/eventgen)** - The Splunk Event Generator is a utility which allows its user to easily build real-time event generators.
 2) **[Docker Logging plugin](https://github.com/splunk/docker-logging-plugin)** - Splunk Connect for Docker is a Docker logging plugin that allows docker containers to send their logs directly to Splunk Enterprise or a Splunk Cloud deployment.
 
+*** 
+
+### 📺 [Netflix/Scumblr](https://github.com/Netflix/Scumblr) -- Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results.
+1) [ChaosMonkey](https://github.com/Netflix/chaosmonkey) -- is a resiliency tool that helps applications tolerate random instance failures.
+2) [Security_Monkey](https://github.com/Netflix/security_monkey) -- monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations. Support is available for OpenStack public and private clouds. Security Monkey can also watch and monitor your GitHub organizations, teams, and repositories.
+3) [Repokid](https://github.com/Netflix/repokid) -- uses Access Advisor provided by Aardvark to remove permissions granting access to unused services from the inline policies of IAM roles in an AWS account.
 
 ***
+
 # HARDCORE
 
 ## 🐻 [*] [scip AG/ vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
@@ -166,7 +175,7 @@
 + [SandiaLabs](https://github.com/sandialabs)
 + [SySS-Research](https://github.com/SySS-Research) -- Seth | dns-mitm 
 + [GoSecure](https://github.com/GoSecure/presentations) - [Malware IOCs](https://github.com/GoSecure/malware-ioc) 
-+ [Netflix](https://github.com/Netflix) - [ChaosMonkey](https://github.com/Netflix/chaosmonkey) | [Security_Monkey]() | [Repokid](https://github.com/Netflix/repokid) 
+
 + [OWASP OWTF](https://github.com/owtf) - OWTF | [WAF bypasser](https://github.com/owtf/wafbypasser)
 + [CENSUS](https://github.com/CENSUS) 
 + [SecurityInnovation](https://github.com/SecurityInnovation) 
