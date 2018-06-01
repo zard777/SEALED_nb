@@ -269,4 +269,4 @@
 
 + **[OpenSecuritySummit](https://github.com/OpenSecuritySummit/oss2018)** -- https://open-security-summit.org 
 
-+ **[CHIPSEC: Platform Security Assessment Framework](https://github.com/chipsec/chipsec/blob/master/chipsec-manual.pdf) 
++ **[CHIPSEC: Platform Security Assessment Framework](https://github.com/chipsec/chipsec/blob/master/chipsec-manual.pdf)** -- CHIPSEC is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell 
