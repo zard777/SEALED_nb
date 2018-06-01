@@ -266,3 +266,7 @@
 + **[Flipkart Incubator/Red Team Arsenal](https://github.com/flipkart-incubator/RTA)** -- An intelligent scanner to detect security vulnerabilities in company's layer 7 assets ||| **[Astra](https://github.com/flipkart-incubator/Astra)** -- Automated Security Testing For REST API
 
 + **[Acceis/leakSraper](https://github.com/Acceis/leakScraper)** -- set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering credentials belonging to their target ||| **[crypto_identifier](https://github.com/Acceis/crypto_identifier)** -- try to uncipher data using multiple algorithms and block chaining modes. Usefull for a quick check on unknown cipher text and key dictionnary
+
++ **[OpenSecuritySummit](https://github.com/OpenSecuritySummit/oss2018)** -- https://open-security-summit.org 
+
++ **[CHIPSEC: Platform Security Assessment Framework](https://github.com/chipsec/chipsec/blob/master/chipsec-manual.pdf) 
