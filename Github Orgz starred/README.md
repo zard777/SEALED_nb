@@ -79,16 +79,25 @@
 
 # HARDCORE
 
-## 🐻 [*] [scip AG/ vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
+## 🐻 [scip AG/ vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 ##  [httpRecon-NSE](https://github.com/scipag/httprecon-nse) - Advanced web server fingerprinting for Nmap
 - **[FileRecon](https://github.com/scipag/filerecon)** - Advanced File Fingerprinting
 
-### 🕷 [*] [SpiderLabs/ Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
+### 🕷 [SpiderLabs/ Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 
 1) **[ModSecurity/Wiki](https://github.com/SpiderLabs/ModSecurity/wiki)** - It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 
 2) **[ModSecurity v3 Apache Connector](https://github.com/SpiderLabs/ModSecurity-apache)** - The ModSecurity-apache connector takes the form of an Apache module. The module simply serves as a layer of communication between Apache and ModSecurity.
 3) **[ModSecurity v3 Nginx Connector](https://github.com/SpiderLabs/ModSecurity-nginx)** - The ModSecurity-nginx connector takes the form of an nginx module. The module simply serves as a layer of communication between nginx and ModSecurity.
+
+## 🕵 [NSACyber.io](https://github.com/nsacyber/nsacyber.github.io) - NSA Cybersecurity
+1) **[Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)** - Secure Host Baseline (SHB) provides an automated and flexible approach for assisting the DoD in deploying the latest releases of Windows 10 using a framework that can be consumed by organizations of all sizes.
+
+2) **[Unfetter](https://nsacyber.github.io/unfetter)** - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework. A unique platform that unifies the Network Defender and Threat Analysts, letting them create, share, and use threat intel.
+
+3) **[WALKOFF](https://github.com/nsacyber/WALKOFF)** - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down
+4) **[WALKOFF-Apps](https://github.com/nsacyber/WALKOFF-Apps)**
+
 
 ***
 
@@ -187,7 +196,8 @@
 + [Capsule8, Inc.](https://github.com/capsule8) - Container-Aware Real-time Threat Protection for Linux
 + [Sense of Security](https://github.com/sense-of-security) 
 + [Arachni](https://github.com/Arachni) - **Arachni** -- Web Application Security Scanner Framework
-+ [Crowe Center for Cybersecurity](https://github.com/CroweCybersecurity) -- ad-ldap-enum | ps1encode
++ **[Crowe Center for Cybersecurity/ ad-ldap-enum](https://github.com/CroweCybersecurity/ad-ldap-enum)** -- An LDAP based Active Directory user and group enumeration tool | **[ps1encode](https://github.com/CroweCybersecurity/ps1encode)** -- Script used to generate and encode a PowerShell based Metasploit payloads.
+
 + [Threat Express](https://github.com/threatexpress) - collection of Red Team scripts
 + [cSploit](https://github.com/cSploit) - The most complete and advanced IT security professional toolkit on Android.
 + [Pi-hole](https://github.com/pi-hole/) - **[Blog](https://pi-hole.net/)** | **```A BLACK HOLE FOR INTERNET ADVERTISEMENTS```**
@@ -254,3 +264,5 @@
 
 > 2018_MAY
 + **[Flipkart Incubator/Red Team Arsenal](https://github.com/flipkart-incubator/RTA)** -- An intelligent scanner to detect security vulnerabilities in company's layer 7 assets ||| **[Astra](https://github.com/flipkart-incubator/Astra)** -- Automated Security Testing For REST API
+
++ **[Acceis/leakSraper](https://github.com/Acceis/leakScraper)** -- set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering credentials belonging to their target ||| **[crypto_identifier](https://github.com/Acceis/crypto_identifier)** -- 
