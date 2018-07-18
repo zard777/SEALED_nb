@@ -285,3 +285,11 @@ The Lumen Database:
 [+] Helping Internet users to know their rights and understand the law. 
 These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals.
 ```
+
++ **[Kolide/Fleet Documentation](https://github.com/kolide/fleet/tree/master/docs)**
+
+```
+Kolide Fleet is a state of the art host monitoring platform tailored for security experts.
+Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers to big questions
+```
+`Ref >> https://blog.kolide.com/monitoring-macos-hosts-with-osquery-ba5dcc83122d` 
