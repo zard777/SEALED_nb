@@ -273,3 +273,15 @@
 
 > 2018_JUNE
 + **[DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** -- an open-source application vulnerability correlation and security orchestration application.
+
+> 2018_JULY 
++ 👁 **[LumenDatabase API Docs](https://github.com/berkmancenter/lumendatabase/wiki/Lumen-API-Documentation)** 
+
+`WTF is LumenDatabase ???`
+
+```
+The Lumen Database:
+[+] Collects and analyzes legal complaints and requests for removal of online materials.
+[+] Helping Internet users to know their rights and understand the law. 
+These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals.
+```
