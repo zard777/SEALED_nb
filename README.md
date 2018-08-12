@@ -293,3 +293,7 @@ Kolide Fleet is a state of the art host monitoring platform tailored for securit
 Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers to big questions
 ```
 `Ref >> https://blog.kolide.com/monitoring-macos-hosts-with-osquery-ba5dcc83122d` 
+
+> 2018_AUG
++ 🐎 **[360Pegasus/GhostTunnel](https://github.com/360PegasusTeam/GhostTunnel)** -- a covert backdoor transmission method that can be used in an isolated environment.
+
