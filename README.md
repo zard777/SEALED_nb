@@ -83,12 +83,17 @@
 ##  [httpRecon-NSE](https://github.com/scipag/httprecon-nse) - Advanced web server fingerprinting for Nmap
 - **[FileRecon](https://github.com/scipag/filerecon)** - Advanced File Fingerprinting
 
-### 🕷 [SpiderLabs/ Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
+### 🕷 [SpiderLabs/ Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. 
 
 1) **[ModSecurity/Wiki](https://github.com/SpiderLabs/ModSecurity/wiki)** - It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
 
 2) **[ModSecurity v3 Apache Connector](https://github.com/SpiderLabs/ModSecurity-apache)** - The ModSecurity-apache connector takes the form of an Apache module. The module simply serves as a layer of communication between Apache and ModSecurity.
 3) **[ModSecurity v3 Nginx Connector](https://github.com/SpiderLabs/ModSecurity-nginx)** - The ModSecurity-nginx connector takes the form of an nginx module. The module simply serves as a layer of communication between nginx and ModSecurity.
+
+## Scenario
++ **[Responder -> MultiRelay -> Mimikatz -> Crackmapexec -> Windows PWNage](https://gameofpwnz.com/?p=684)**
+
+***
 
 ## 🕵 [NSACyber.io](https://github.com/nsacyber/nsacyber.github.io) - NSA Cybersecurity
 1) **[Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)** - Secure Host Baseline (SHB) provides an automated and flexible approach for assisting the DoD in deploying the latest releases of Windows 10 using a framework that can be consumed by organizations of all sizes.
