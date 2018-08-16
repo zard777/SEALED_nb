@@ -125,7 +125,9 @@
 + [HashiCorp](https://github.com/hashicorp) - Terraform | vault 
 + [EthereumJS](https://github.com/ethereumjs)
 + [Malware.lu](https://github.com/MalwareLu)
-+ [Bastille Threat Research Team](https://github.com/BastilleResearch)
+
++ **[Bastille Threat Research Team/Mousejack](https://github.com/BastilleResearch/mousejack)** -- MouseJack device discovery and research tools || [CableTap](https://github.com/BastilleResearch/CableTap) -- CableTap: Wirelessly Tapping Your Home Network, as presented at DEF CON 25.
+
 + [Rapid7](https://github.com/rapid7)
 
 + [Sensepost](https://github.com/sensepost) - DNS-Shell | Mana (toolkit for wifi rogue AP attacks and MitM)
