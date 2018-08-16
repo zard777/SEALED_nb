@@ -110,7 +110,7 @@
 + [Trail of Bits](https://github.com/trailofbits)
 + [Information Assurance by NSA](https://github.com/iadgov)
 
-+ [Hack-Night from ISIS_Lab](https://github.com/isislab/Hack-Night)
++ [Hack-Night from OSIRIS Lab (former @isislab](https://github.com/isislab/Hack-Night)
 + [Recon-NG source](https://bitbucket.org/LaNMaSteR53/recon-ng) 
 
 
