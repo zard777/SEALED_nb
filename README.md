@@ -1,10 +1,5 @@
 ### 🔯 **[Google/Fuzzing-AllTheThings](https://github.com/google?utf8=✓&q=fuzz)** --- **[OSS-Fuzz](https://github.com/google/oss-fuzz)** ||| **[honggfuzz](https://github.com/google/honggfuzz)**
 
-### ⛅ [Cloud Foundry Foundation](https://github.com/cloudfoundry)
-1) **[BOSH](https://github.com/cloudfoundry/bosh)** - BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. 
-2) 📋 **[Bosh Guide 101](https://mariash.github.io/learn-bosh/#introduction)** 
-
-
 ### 🐝 **[TheHive-Project](https://github.com/TheHive-Project)** _|Security Incident Response for the Masses|_ --- [Unveiling Cortex 2](https://blog.thehive-project.org/2018/03/29/unveiling-cortex-2) 
 
 1) **[TheHive-Docs](https://github.com/TheHive-Project/TheHiveDocs)** - Documentation of TheHive
