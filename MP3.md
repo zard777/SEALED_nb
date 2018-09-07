@@ -12,3 +12,8 @@
 + [Beautiful piano @ Soothing Relaxation](https://www.youtube.com/watch?v=lCOF9LN_Zxs) 
 + [Deep Sleep - the Best of Studio Ghibli](https://www.youtube.com/watch?v=Plcq4q6jZQc) 
 + **[Susan Wong](https://www.youtube.com/playlist?list=PLeA5ZOLjeepKW4ShPe6r9txMO9ASXXMc-)** 
+
+***
+
++ **[moumoon](https://www.youtube.com/user/moumoonchannel/playlists)** 
++ **[Trident Blue 全曲クロスフェード](https://www.youtube.com/watch?v=BT6P-XWDXGg)**
