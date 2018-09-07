@@ -299,3 +299,9 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2018_AUG
 + 🐎 **[360Pegasus/GhostTunnel](https://github.com/360PegasusTeam/GhostTunnel)** -- a covert backdoor transmission method that can be used in an isolated environment.
 
+> 2018_SEP
+[-] **[GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt)** -- C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
+
++ [SharpDump](https://github.com/GhostPack/SharpDump) -- is a C# port of PowerSploit's Out-Minidump.ps1 functionality.
++ [SafetyKatz](https://github.com/GhostPack/SafetyKatz) -- is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader
+
