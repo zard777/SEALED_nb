@@ -305,3 +305,7 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 + [SharpDump](https://github.com/GhostPack/SharpDump) -- is a C# port of PowerSploit's Out-Minidump.ps1 functionality.
 + [SafetyKatz](https://github.com/GhostPack/SafetyKatz) -- is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader
 
+*** 
+
+- [ciscocsirt/MalSpider](https://github.com/ciscocsirt/malspider) -- a web spidering framework that detects characteristics of web compromises.
+- [ciscocsirt/Netsarlacc](https://github.com/ciscocsirt/netsarlacc) -- a high performance enterprise HTTP (and SMTP) sinkhole designed to be used by corporate SOC or IR teams. 
