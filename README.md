@@ -309,3 +309,12 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 
 - [ciscocsirt/MalSpider](https://github.com/ciscocsirt/malspider) -- a web spidering framework that detects characteristics of web compromises.
 - [ciscocsirt/Netsarlacc](https://github.com/ciscocsirt/netsarlacc) -- a high performance enterprise HTTP (and SMTP) sinkhole designed to be used by corporate SOC or IR teams. 
+
+*** 
+
+- **[Tevora-Threat/Dragnet](https://github.com/tevora-threat/Dragnet)** -- Social Engineering sidekick
++ [Tevora-Threat/PowerView3-Aggressor](https://github.com/tevora-threat/PowerView3-Aggressor) -- Cobalt Strike Aggressor script menu for Powerview/SharpView
+
+*** 
+
+- **[LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)** -- Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
