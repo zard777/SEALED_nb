@@ -193,7 +193,7 @@
 + [Nightwatch Research](https://github.com/nightwatchcybersecurity) 
 
 > 2018_JAN
-+ [Target](https://github.com/target) - Webbreaker -- Dynamic Application Security Test Orchestration. 
++ [Target/Webbreaker](https://github.com/target/webbreaker) -- Dynamic Application Security Test Orchestration. 
 + [IOHK|Cardano](https://github.com/input-output-hk) - **Carano-sl** - Cryptographic currency implementing Ouroboros PoS protocol
 + [Capsule8, Inc.](https://github.com/capsule8) - Container-Aware Real-time Threat Protection for Linux
 + [Sense of Security](https://github.com/sense-of-security) 
@@ -201,7 +201,7 @@
 + **[Crowe Center for Cybersecurity/ ad-ldap-enum](https://github.com/CroweCybersecurity/ad-ldap-enum)** -- An LDAP based Active Directory user and group enumeration tool | **[ps1encode](https://github.com/CroweCybersecurity/ps1encode)** -- Script used to generate and encode a PowerShell based Metasploit payloads.
 
 + [Threat Express](https://github.com/threatexpress) - collection of Red Team scripts
-+ [cSploit](https://github.com/cSploit) - The most complete and advanced IT security professional toolkit on Android.
++ [cSploit/android](https://github.com/cSploit/android) - The most complete and advanced IT security professional toolkit on Android.
 + [Pi-hole](https://github.com/pi-hole/) - **[Blog](https://pi-hole.net/)** | **```A BLACK HOLE FOR INTERNET ADVERTISEMENTS```**
 + [FireHOL Project](https://github.com/firehol) 
 + [Colly](https://github.com/gocolly) - Elegant Scraper Framework for Gophers 
