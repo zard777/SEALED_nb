@@ -142,7 +142,7 @@
 > 2017_Nov
 + [UndeadSec](https://github.com/UndeadSec) -- **[EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode evil domains for IDN Homograph Attack and detect them. ||| [Enigma](https://github.com/UndeadSec/Enigma) - Multiplatform payload dropper**
 
-+ [PowerShell Mafia](https://github.com/PowerShellMafia)
++ [PowerShell Mafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) -- collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 
 + [MLSec Project](https://github.com/mlsecproject)
 + [Palantir Technologies](https://github.com/palantir) 
@@ -300,10 +300,13 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 + 🐎 **[360Pegasus/GhostTunnel](https://github.com/360PegasusTeam/GhostTunnel)** -- a covert backdoor transmission method that can be used in an isolated environment.
 
 > 2018_SEP
-- **[-] [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt)** -- C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
 
-+ [SharpDump](https://github.com/GhostPack/SharpDump) -- is a C# port of PowerSploit's Out-Minidump.ps1 functionality.
-+ [SafetyKatz](https://github.com/GhostPack/SafetyKatz) -- is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader
+- **[Tevora-Threat/Dragnet](https://github.com/tevora-threat/Dragnet)** -- Social Engineering sidekick
++ [Tevora-Threat/PowerView3-Aggressor](https://github.com/tevora-threat/PowerView3-Aggressor) -- Cobalt Strike Aggressor script menu for Powerview/SharpView
+
+*** 
+
+- **[LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)** -- Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 
 *** 
 
@@ -312,9 +315,12 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 
 *** 
 
-- **[Tevora-Threat/Dragnet](https://github.com/tevora-threat/Dragnet)** -- Social Engineering sidekick
-+ [Tevora-Threat/PowerView3-Aggressor](https://github.com/tevora-threat/PowerView3-Aggressor) -- Cobalt Strike Aggressor script menu for Powerview/SharpView
+- **[-] [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt)** -- C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
++ [SharpDump](https://github.com/GhostPack/SharpDump) -- is a C# port of PowerSploit's Out-Minidump.ps1 functionality.
++ [SafetyKatz](https://github.com/GhostPack/SafetyKatz) -- is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader
 
-*** 
+- **[SharpSploit](https://github.com/cobbr/SharpSploit)** -- .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers.
 
-- **[LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)** -- Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+
+
+
