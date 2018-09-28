@@ -321,6 +321,8 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 
 - **[SharpSploit](https://github.com/cobbr/SharpSploit)** -- .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers.
 
-
+***
+- **[ZDResearch/ OWASP Nettacker](https://github.com/zdresearch/OWASP-Nettacker)** -- Automated Penetration Testing Framework
+- [ZDResearch/ OWASP-Honeypot](https://github.com/zdresearch/OWASP-Honeypot) -- OWASP Honeypot
 
 
