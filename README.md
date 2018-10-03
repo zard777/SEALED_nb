@@ -325,4 +325,6 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 - **[ZDResearch/ OWASP Nettacker](https://github.com/zdresearch/OWASP-Nettacker)** -- Automated Penetration Testing Framework
 - [ZDResearch/ OWASP-Honeypot](https://github.com/zdresearch/OWASP-Honeypot) -- OWASP Honeypot
 
+> 2018_OCT 
 
++ **[TBG Security/ Weaponize_Splunk](https://github.com/TBGSecurity/weaponize_splunk)** -- collection of creative uses of Splunk that penetration testers and red teamers can use to gain more access and move laterally within an organization.
