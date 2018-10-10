@@ -211,7 +211,7 @@
 
 > 2018_FEB
 + [Demisto](https://github.com/demisto) - Automated and collaborative incident response platform.
-+ [iSEC Partners @ NCC Group](https://github.com/iSECPartners) 
+ 
 + [Obscurity Labs © 2018](https://github.com/obscuritylabs) 
 + [RingZer0](https://github.com/TheRingZer0Team) - [RingZer0 Online CTF](https://ringzer0team.com) 
 
@@ -330,3 +330,8 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 + **[TBG Security/ Weaponize_Splunk](https://github.com/TBGSecurity/weaponize_splunk)** -- collection of creative uses of Splunk that penetration testers and red teamers can use to gain more access and move laterally within an organization.
 
 + **[OWASP Secure Headers Project](https://github.com/oshp/headers)** -- application to catch, search and analyze HTTP secure headers.
+
+***
++ [iSEC Partners/ Android SSL Trustkiller](https://github.com/iSECPartners/Android-SSL-TrustKiller)
++ [iSEC Partners/ IOS Killswitch](https://github.com/iSECPartners/ios-ssl-kill-switch)
++ [iSEC Partners/ LibTech-Audit-Cheatsheet](https://github.com/iSECPartners/LibTech-Auditing-Cheatsheet) 
