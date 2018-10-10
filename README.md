@@ -328,3 +328,5 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2018_OCT 
 
 + **[TBG Security/ Weaponize_Splunk](https://github.com/TBGSecurity/weaponize_splunk)** -- collection of creative uses of Splunk that penetration testers and red teamers can use to gain more access and move laterally within an organization.
+
++ **[OWASP Secure Headers Project](https://github.com/oshp/headers)** -- application to catch, search and analyze HTTP secure headers.
