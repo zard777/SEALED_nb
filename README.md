@@ -335,3 +335,7 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 + [iSEC Partners/ Android SSL Trustkiller](https://github.com/iSECPartners/Android-SSL-TrustKiller)
 + [iSEC Partners/ IOS Killswitch](https://github.com/iSECPartners/ios-ssl-kill-switch)
 + [iSEC Partners/ LibTech-Audit-Cheatsheet](https://github.com/iSECPartners/LibTech-Auditing-Cheatsheet) 
+
+> 2018_NOV
+
++ **[SyndicatedIntel](https://github.com/SyndicatedIntel)** --- **[DarkSpiritz](https://github.com/DarkSpiritz/DarkSpiritz)** -- penetration testing framework for Linux, MacOS, and Windows systems.
