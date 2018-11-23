@@ -17,3 +17,7 @@
 
 + **[moumoon](https://www.youtube.com/user/moumoonchannel/playlists)** 
 + **[Trident Blue 全曲クロスフェード](https://www.youtube.com/watch?v=BT6P-XWDXGg)**
+
+## Media player 
+- [AIMP](http://www.aimp.ru) 
+- [Clementine](https://www.clementine-player.org) 
