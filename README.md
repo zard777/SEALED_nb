@@ -339,3 +339,9 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2018_NOV
 
 + **[SyndicatedIntel](https://github.com/SyndicatedIntel)** --- **[DarkSpiritz](https://github.com/DarkSpiritz/DarkSpiritz)** -- penetration testing framework for Linux, MacOS, and Windows systems.
+
+> 2018_DEC
+
++ **[SekoiaLabs/FastIR_Collector](https://github.com/SekoiaLab/Fastir_Collector)** -- FastIR Collector is a “Fast Forensic” acquisition tool. Traditional forensics has reached its limit with the constant evolution of information technology. With the exponentially growing size of hard drives, their copy can take several hours, and the volume of the data may be too large for a fast and efficient analysis. “Fast Forensic” allows to respond to those issues. It aims a extracting a limited, but with high informational value, amount of data. These targeted data are the most consistent and important ones for an incident response analyst and allows the analyst to quickly collect artifacts and thus, to be able to quickly take decisions about cases.
+
+
