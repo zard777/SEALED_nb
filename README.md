@@ -344,4 +344,5 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 
 + **[SekoiaLabs/FastIR_Collector](https://github.com/SekoiaLab/Fastir_Collector)** -- FastIR Collector is a “Fast Forensic” acquisition tool. Traditional forensics has reached its limit with the constant evolution of information technology. With the exponentially growing size of hard drives, their copy can take several hours, and the volume of the data may be too large for a fast and efficient analysis. “Fast Forensic” allows to respond to those issues. It aims a extracting a limited, but with high informational value, amount of data. These targeted data are the most consistent and important ones for an incident response analyst and allows the analyst to quickly collect artifacts and thus, to be able to quickly take decisions about cases.
 
++ **[FBK CyberSec/ThunderDNS](https://github.com/fbkcs/ThunderDNS)** -- This tool can forward TCP traffic over DNS protocol. Non-compile clients + SOCKS5 support.
 
