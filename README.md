@@ -346,3 +346,6 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 
 + **[FBK CyberSec/ThunderDNS](https://github.com/fbkcs/ThunderDNS)** -- This tool can forward TCP traffic over DNS protocol. Non-compile clients + SOCKS5 support.
 
+> 2019_JAN
+
++ **[SecureMode/Invoke-Apex](https://github.com/securemode/Invoke-Apex)** -- PowerShell-based toolkit consisting of a collection of techniques and tradecraft for use in red team, post-exploitation, adversary simulation, or other offensive security tasks. 
