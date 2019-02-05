@@ -171,7 +171,6 @@
 
 > 2017_DEC
 + [Crypto101](https://github.com/crypto101) - Crypto 101, the introductory book on cryptography.
-+ [ThreatResponse](https://github.com/ThreatResponse) - Open Source Security Suite for Hardening and Responding in AWS
 + [SecuritywithoutBorders](https://github.com/securitywithoutborders) 
 + [CoinFoundry](https://github.com/coinfoundry)
 + [Shadowsocks](https://github.com/shadowsocks) - ChinaDNS | ShadowsocksX-NG
@@ -349,3 +348,7 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2019_JAN
 
 + **[SecureMode/Invoke-Apex](https://github.com/securemode/Invoke-Apex)** -- PowerShell-based toolkit consisting of a collection of techniques and tradecraft for use in red team, post-exploitation, adversary simulation, or other offensive security tasks. 
+
+> 2019_FEB
+
++ **[ThreatResponse](https://github.com/ThreatResponse)** -- Open Source Security Suite for Hardening and Responding in AWS --- **[ThreatResponse Suite: AWS_IR | Incident Pony | Margarita Shotgun](https://www.threatresponse.cloud)** 
