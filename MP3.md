@@ -19,6 +19,7 @@
 + **[moumoon](https://www.youtube.com/user/moumoonchannel/playlists)** 
 + **[Trident Blue 全曲クロスフェード](https://www.youtube.com/watch?v=BT6P-XWDXGg)**
 + **[IU a.k.a Lee Ji-eun](https://beta.chiasenhac.vn/ca-si/IU~Y3NuX2FydGlzdH4xNjk3.html)**
++ **[Stereo Dive Foundation](http://www.syncmusic.jp/wordpress/?p=18253)** 
 
 ## Media player 
 - [AIMP](http://www.aimp.ru) 
