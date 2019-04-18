@@ -352,3 +352,7 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2019_FEB
 
 + **[ThreatResponse](https://github.com/ThreatResponse)** -- Open Source Security Suite for Hardening and Responding in AWS --- **[ThreatResponse Suite: AWS_IR | Incident Pony | Margarita Shotgun](https://www.threatresponse.cloud)** 
+
+> 2019_APR 
+
++ **[LogRhythm-Labs](https://github.com/LogRhythm-Labs/PIE)** -- Phishing Intelligence Engine __ LogRhythm Security Operations v3.0 
