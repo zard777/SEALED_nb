@@ -356,3 +356,7 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2019_APR 
 
 + **[LogRhythm-Labs](https://github.com/LogRhythm-Labs/PIE)** -- Phishing Intelligence Engine __ LogRhythm Security Operations v3.0 
+
+> 2019_MAY
+
++ **[SmartProxy](https://github.com/Smartproxy/Smartproxy)** -- Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 10 million proxies.
