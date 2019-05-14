@@ -360,3 +360,5 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2019_MAY
 
 + **[SmartProxy](https://github.com/Smartproxy/Smartproxy)** -- Smartproxy is a rotating residential proxy network which enables users to gather any data from the web using a pool of over 10 million proxies.
+
++ **[Vesper](https://github.com/ymirsky/Vesper)** -- a Man-in-the-Middle detection tool for LANs -- **[pdf](https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Mirsky-See-Like-a-Bat-LANs.pdf)**  
