@@ -364,3 +364,5 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 + **[Vesper](https://github.com/ymirsky/Vesper)** -- a Man-in-the-Middle detection tool for LANs -- **[pdf](https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Mirsky-See-Like-a-Bat-LANs.pdf)**  
 
 + **[CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)** -- AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS! -- AIMSICD is an Android app to detect IMSI-Catchers. These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack.
+
++ **[Chaitin-Tech/XRAY](https://github.com/chaitin/xray/tree/master/docs/en-us)** -- powerful security assessment tool: dirscan; SQL, CRLF injection; SSRF ; capture HTTP/S traffic ; JSON sensitive infoleak..... 
