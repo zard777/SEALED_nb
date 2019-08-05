@@ -368,3 +368,7 @@ Leveraging Facebook's battle-tested osquery project, Fleet delivers fast answers
 > 2019_JUL
 
 + **[Chaitin-Tech/XRAY](https://github.com/chaitin/xray/tree/master/docs/en-us)** -- powerful security assessment tool: dirscan; SQL, CRLF injection; SSRF ; capture HTTP/S traffic ; JSON sensitive infoleak; usage of Reverse server..... 
+
+> 2019_AUG
+
++ **[Inveigh](https://github.com/Kevin-Robertson/Inveigh)** -- Inveigh is a PowerShell ADIDNS/LLMNR/NBNS/mDNS/DNS spoofer and man-in-the-middle tool designed to assist penetration testers/red teamers that find themselves limited to a Windows system.
