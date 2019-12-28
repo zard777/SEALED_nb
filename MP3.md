@@ -21,6 +21,7 @@
 + **[IU a.k.a Lee Ji-eun](https://beta.chiasenhac.vn/ca-si/IU~Y3NuX2FydGlzdH4xNjk3.html)**
 + **[Stereo Dive Foundation](http://www.syncmusic.jp/wordpress/?p=18253)** 
 + **[The Charm Park](https://www.youtube.com/channel/UCynqhB3Ci2W0lOfopZByYkw)** 
++ **[【KIRINJI - killer tune kills me feat. YonYon】](https://www.youtube.com/watch?v=Y36b8_WFejI)**
 
 ## Media player 
 - [AIMP](http://www.aimp.ru) 
